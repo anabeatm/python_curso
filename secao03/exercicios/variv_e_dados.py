@@ -6,7 +6,7 @@ sobrenome = "Meriel"
 idade = 19
 d_nascimento = "09/03/2005"
 maioridade = idade >= 18
-altura = 162
+altura = 1.62
 
 print("Nome:", nome)
 print("Sobrenome", sobrenome)
